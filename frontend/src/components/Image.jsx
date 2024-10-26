@@ -1,4 +1,5 @@
 import React from 'react'
+import {image} from '../'
 const HQImage = () => {
   return (
     <div className='flex items-center justify-center top-0'>
